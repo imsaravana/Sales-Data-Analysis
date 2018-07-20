@@ -1,1 +1,2 @@
-# Sales-Data-Analysis
+# Sales Data Analysis
+Dataset: https://www.kaggle.com/lissetteg/ecommerce-dataset
